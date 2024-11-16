@@ -1,11 +1,11 @@
-
+[![MasterHead](https://github.com/user-attachments/assets/77a352fa-d935-44b8-8a34-26aa2e77c9fb)]
 <h1 align="center">Hi 👋, I'm Shanza Yousaf</h1>
-<h3 align="center">Junior Data Scientist | Aspiring iOS Developer | Machine Learning Enthusiast | Innovating with Swift and Python</h3>
-
+<h3 align="center">Data Scientist | Aspiring iOS Developer | Machine Learning Enthusiast | Innovating with Swift and Python</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanzayousaf&label=Profile%20views&color=0e75b6&style=flat" alt="shanzayousaf" /> </p>
 
-- 🔭 I’m currently working on Machine Learning Project **Problematic internet use**
+- 🔭 I’m currently working on a Machine Learning Project **Problematic internet use**
 
 - 🌱 I’m currently learning **Data Science and Artificial Intelligence**
 
