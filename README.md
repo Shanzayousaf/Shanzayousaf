@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanzayousaf&label=Profile%20views&color=0e75b6&style=flat" alt="shanzayousaf" /> </p>
 
-- 🔭 I’m currently working on a Machine Learning Project **Problematic internet use**
+- 🔭 I’m currently working on a Machine Learning Project **Pose Detection**
 
-- 🌱 I’m currently learning **Data Science and Artificial Intelligence**
+- 🌱 I’m currently learning **Deep learning and Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **data science projects, app development**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shanzayousaf2002@gmail.com**
 
-- ⚡ Fun fact **I juggle machine learning models and Swift code like a pro but still struggle to decide between being the next Hange Zoë or the CEO of my own tech empire!**
+- ⚡ Fun fact **I like creating things that exist outside a resume.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
